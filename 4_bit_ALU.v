@@ -1,5 +1,5 @@
 
-module alu4 (
+module 4_bit_ALU (
     input  [3:0] A,
     input  [3:0] B,
     input  [2:0] sel,
