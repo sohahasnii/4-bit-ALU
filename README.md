@@ -72,5 +72,11 @@ No physical FPGA board is required to run the simulation.
 - Integrate the ALU into a simple processor datapath.
 
 ---
+## RESULT
+The netlist: 
+ 
+ <img width="1228" height="597" alt="image" src="https://github.com/user-attachments/assets/38a118d5-1f4b-4df2-b3f8-5f4770932c6b" />
 
-*This project is intended for educational use and as a foundation for further digital design and FPGA development.*
+ Testbench output: 
+ <img width="982" height="262" alt="image" src="https://github.com/user-attachments/assets/b59bde7a-f98c-4b26-bebe-6b7dc32c640e" />
+
