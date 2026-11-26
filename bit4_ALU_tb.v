@@ -1,7 +1,7 @@
 
 `timescale 1ns / 1ps
 
-module ALU_4bit_tb;
+module bit4_ALU_tb;
 
     reg [3:0] A;
     reg [3:0] B;
@@ -11,7 +11,7 @@ module ALU_4bit_tb;
     wire carry;
     wire zero;
 
-  ALU_4bit uut (
+  bit4_ALU uut (
         .A(A),
         .B(B),
         .sel(sel),
